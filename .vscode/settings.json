@@ -6,5 +6,6 @@
       "path": "/usr/lib/jvm/java-1.17.0-openjdk-amd64",
       "default": true
     }
-  ]
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }
