@@ -31,6 +31,7 @@ public class ex16 {
             avg = sum/(float)score[i].length; // 평균
             System.out.printf("%5d %5.1f%n", sum, avg);
 
+            
 
         }
 
