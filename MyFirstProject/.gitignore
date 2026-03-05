@@ -1,0 +1,65 @@
+# 컴파일 결과
+*.class
+
+# 빌드 결과물
+/build/
+/target/
+/out/
+
+# Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# 로그
+*.log
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정
+.vscode/
+.idea/
+*.iml
+
+# 환경 변수 파일
+.env
+.env.*
+
+# 로컬 설정 파일
+application-local.yml
+application-local.properties
+
+# 테스트 결과
+/test-results/
+# 컴파일 결과물
+*.class
+
+# 로그 파일
+*.log
+
+# 압축 파일
+*.zip
+*.tar.gz
+*.rar
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# VS Code 설정
+.vscode/
+
+# IntelliJ 설정
+.idea/
+*.iml
+
+# Eclipse 설정
+.project
+.classpath
+.settings/
+
+# 빌드 폴더
+bin/
+out/
+build/
