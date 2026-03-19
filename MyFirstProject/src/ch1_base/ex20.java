@@ -1,3 +1,4 @@
+package ch1_base;
 //열거 타입과 열거 상수 - 요일 얻고 열거 타입 변수에 해당 열거 상수 대입
 
 import java.util.Calendar;

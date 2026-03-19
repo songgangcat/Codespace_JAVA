@@ -1,3 +1,4 @@
+package ch1_base;
 public class ex02 {
     public static void main(String[] args) {
         int num = (int) (Math.random() * 6) + 1;

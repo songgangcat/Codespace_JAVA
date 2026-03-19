@@ -1,3 +1,4 @@
+package ch1_base;
 //2차원 배열(2) - 총점과 평균
 
 public class ex16 {

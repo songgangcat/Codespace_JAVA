@@ -1,3 +1,4 @@
+package ch1_base;
 public class ex03 {
     public static void main(String[] args) {
         int x = 1;

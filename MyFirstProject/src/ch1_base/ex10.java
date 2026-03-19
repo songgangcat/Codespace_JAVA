@@ -1,3 +1,4 @@
+package ch1_base;
 // 배열의 활용 (2) - 최댓값과 최소값 찾기
 
 public class ex10 {

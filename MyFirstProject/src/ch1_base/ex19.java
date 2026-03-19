@@ -1,3 +1,4 @@
+package ch1_base;
 //arrays class 메소드
 
 import java.util.Arrays;

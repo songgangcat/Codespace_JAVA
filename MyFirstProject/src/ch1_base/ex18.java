@@ -1,3 +1,4 @@
+package ch1_base;
 // String 클래스 메서드
 
 class ex18 {

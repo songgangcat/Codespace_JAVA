@@ -1,3 +1,4 @@
+package ch1_base;
 // 배열의 활용 (1) - 총합과 평균
 
 public class ex09 {

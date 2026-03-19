@@ -1,3 +1,4 @@
+package ch1_base;
 // 배열의 길이
 
 public class ex07 {

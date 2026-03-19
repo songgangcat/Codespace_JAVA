@@ -1,3 +1,4 @@
+package ch1_base;
 //2차원 배열(1) - 합계
 
 class Ex5_8 {

@@ -1,3 +1,4 @@
+package ch1_base;
 //2차원 배열(3) - Question
 
 import java.util.Scanner;

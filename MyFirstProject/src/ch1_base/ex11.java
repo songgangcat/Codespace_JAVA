@@ -1,3 +1,4 @@
+package ch1_base;
 //배열의 활용(3) - 섞기(shuffle)
 
 import java.util.Arrays;

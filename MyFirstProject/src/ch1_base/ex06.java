@@ -1,3 +1,4 @@
+package ch1_base;
 //배열
 
 public class ex06 {

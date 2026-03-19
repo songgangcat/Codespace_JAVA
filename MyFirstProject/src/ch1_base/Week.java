@@ -1,3 +1,4 @@
+package ch1_base;
 public enum Week {
     MONDAY,
     TUESDAY,

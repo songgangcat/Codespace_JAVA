@@ -1,3 +1,4 @@
+package ch1_base;
 //String 배열 - 가위 바위 보 중에 하나 랜덤으로 출력하기
 
 import java.util.Arrays;

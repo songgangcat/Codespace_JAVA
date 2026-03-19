@@ -1,3 +1,4 @@
+package ch1_base;
 //배열의 활용(4) - 로또번호 뽑기
 
 public class ex12 {

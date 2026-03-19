@@ -1,3 +1,4 @@
+package ch1_base;
 //배열의 출력
 import java.util.Arrays;
 
