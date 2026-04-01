@@ -1,6 +1,6 @@
 package ch2_oop.exam02_call_stack;
 
-public class PrimitiveParamEx {
+public class PrimitiveParamEx { // 기본형 매개변수 예제
     public static void main(String[] args) {
         Data d = new Data(); 
         // 참조변수 d 선언(d -> stack 영역, lv:지역변수)
